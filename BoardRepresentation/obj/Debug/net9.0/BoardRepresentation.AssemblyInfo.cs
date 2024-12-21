@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BoardRepresentation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79eb67d8102b5bd4bcc20e7db95a81857f4000ae")]
 [assembly: System.Reflection.AssemblyProductAttribute("BoardRepresentation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BoardRepresentation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
